@@ -1,0 +1,3 @@
+﻿  t.c
+E:\20250519\C语言技术体系\TODO_c_1_1\t.c(23,22): warning C4013: “strlen”未定义；假设外部返回 int
+  TODO_c_1_1.vcxproj -> E:\20250519\C语言技术体系\Debug\TODO_c_1_1.exe

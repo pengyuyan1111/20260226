@@ -1,0 +1,3 @@
+﻿  login.c
+C:\Users\20294\Desktop\kelin\C_4\C_4_1\login.c(46,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  C_4_1.vcxproj -> D:\1111\cpp\test\Debug\C_4_1.exe

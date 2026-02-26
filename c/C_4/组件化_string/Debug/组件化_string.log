@@ -1,0 +1,12 @@
+﻿  TestString_pro.cpp
+  string_pro.cpp
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(96,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(139,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(169,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(186,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(188,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(189,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(197,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_4\组件化_string\string_pro.cpp(205,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  组件化_string.vcxproj -> D:\1111\cpp\test\Debug\组件化_string.exe

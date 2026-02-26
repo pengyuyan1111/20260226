@@ -1,0 +1,4 @@
+﻿  03_文本文件_读操作.c
+C:\Users\20294\Desktop\kelin\C_6_1\C_6_1\03_文本文件_读操作.c(23,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\20294\Desktop\kelin\C_6_1\C_6_1\03_文本文件_读操作.c(27,24): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C_6_1.vcxproj -> D:\1111\cpp\test\Debug\C_6_1.exe
