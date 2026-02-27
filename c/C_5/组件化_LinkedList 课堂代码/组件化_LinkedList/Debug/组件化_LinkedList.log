@@ -1,6 +1,0 @@
-﻿  LinkedList.cpp
-C:\Users\20294\Desktop\kelin\C_5\组件化_LinkedList 课堂代码\组件化_LinkedList\LinkedList.cpp(67,16): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-C:\Users\20294\Desktop\kelin\C_5\组件化_LinkedList 课堂代码\组件化_LinkedList\LinkedList.cpp(68,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-  useCollections.cpp
-  正在生成代码...
-  组件化_LinkedList.vcxproj -> D:\1111\cpp\test\Debug\组件化_LinkedList.exe
